@@ -1,0 +1,14 @@
+{
+    "[go]": {
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit",
+            "source.fixAll": "explicit"
+        }
+    },
+    "go.formatTool": "goformat",
+    "go.lintOnSave": "package",
+    "editor.codeActionsOnSave": null,
+    "go.testOnSave": false
+}
